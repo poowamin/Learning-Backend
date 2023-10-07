@@ -29,4 +29,4 @@ const addBook = async (req, res) => {
   }
 };
 
-module.exports = { getAllBook, addBook };
+module.exports = { getAllBook, addBook }
